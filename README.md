@@ -45,7 +45,7 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 85% and a loss of 0.4. The model is able to predict the class of the lesion with a high accuracy.
+As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 85% and a loss of 0.5. The model is able to predict the class of the lesion with a high accuracy.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
